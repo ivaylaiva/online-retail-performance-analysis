@@ -81,3 +81,4 @@ Date corrections relied on documented assumptions where the original date format
 ## Notes
 
 This project uses fictional sample data for learning and portfolio demonstration. Findings describe this sample dataset and should not be interpreted as actual company performance.
+![Online Retail Performance Dashboard](dashboard.PNG)
