@@ -82,3 +82,16 @@ Date corrections relied on documented assumptions where the original date format
 
 This project uses fictional sample data for learning and portfolio demonstration. Findings describe this sample dataset and should not be interpreted as actual company performance.
 ![Online Retail Performance Dashboard](dashboard.PNG)
+
+## Interactive Tableau Dashboard
+
+Explore the interactive dashboard published on Tableau Public:
+
+[View the Tableau Dashboard] (https://public.tableau.com/app/profile/ivayla.emilova/viz/Online_Retail_Performance_Tableau/OnlineRetailPerformanceDashboard)
+
+The dashboard includes:
+- Total Sales, Unique Orders, Average Delivery Time, and Completed Sales KPIs
+- Monthly Sales Analysis
+- Sales by Product Category and Order Status
+- Top 10 Products by Sales
+- Interactive Category and Order Status filters
